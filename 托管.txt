@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "完成了项目"
+
+git push https://..... master
